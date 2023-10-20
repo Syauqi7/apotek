@@ -21,7 +21,7 @@ $jumlah = mysqli_fetch_assoc($res);
     <link rel="icon" type="image/png" href="assets/img/favicon.ico">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-    <title>Apotek Pratama Admin</title>
+    <title>Apotek Supri</title>
 
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
@@ -51,7 +51,7 @@ $jumlah = mysqli_fetch_assoc($res);
 <body>
 
     <div class="wrapper">
-        <div class="sidebar" data-color="blue" data-image="assets/img/sidebar-5.jpg">
+        <div class="sidebar" data-color="blue" data-image="assets/img/sidebar-1.jpg">
 
             <!--
 

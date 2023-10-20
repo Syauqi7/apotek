@@ -36,7 +36,7 @@ if (isset($_POST['login'])) {
 	<style type="text/css">
 		.kotak {
 			margin-top: 150px;
-			background-color: pink;
+			background-color: green;
 			/*#AAE25E*/
 			color: #fff;
 		}

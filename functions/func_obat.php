@@ -19,7 +19,7 @@
 		$harga = htmlspecialchars($data['harga']);
 		$stok = htmlspecialchars($data['stok']);
 		$kategory = htmlspecialchars($data['kategory']);
-		$khasiat = implode($data['khasiat'], ', ');
+		$khasiat = implode(', ', $data['khasiat']);
 		$expired = htmlspecialchars($data['expired']);
 
 		$sql = "INSERT INTO obat VALUES(
