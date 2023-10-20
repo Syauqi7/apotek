@@ -51,7 +51,7 @@ $jumlah = mysqli_fetch_assoc($res);
 <body>
 
     <div class="wrapper">
-        <div class="sidebar" data-color="purple" data-image="assets/img/sidebar-5.jpg">
+        <div class="sidebar" data-color="blue" data-image="assets/img/sidebar-5.jpg">
 
             <!--
 
@@ -231,7 +231,7 @@ $jumlah = mysqli_fetch_assoc($res);
                             </li>
                         </ul>
                     </nav>
-                     <p class="copyright pull-right">
+                    <p class="copyright pull-right">
                     &copy; <script>document.write(new Date().getFullYear())</script> <a href="https://smk.prestasiprima.sch.id/">SMK Prestasi Prima</a>, Jl. Raya Hankam, Kec. Cipayung, Jakarta Timur.
                 </p>
                 </div>

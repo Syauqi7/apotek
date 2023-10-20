@@ -51,7 +51,7 @@
 <body>
 
 <div class="wrapper">
-    <div class="sidebar" data-color="azure" data-image="assets/img/sidebar-5.jpg">
+    <div class="sidebar" data-color="blue" data-image="assets/img/sidebar-5.jpg">
 
     <!--   you can change the color of the sidebar using: data-color="blue | azure | green | orange | red | purple" -->
 
@@ -195,7 +195,7 @@
                     </ul>
                 </nav>
                 <p class="copyright pull-right">
-                    &copy; <script>document.write(new Date().getFullYear())</script> <a href="https://smk.prestasiprima.sch.id/">SMK Prestasi Prima</a>, Jl. Assyafiah, Kec. Cipayung, Jakarta Timur.
+                    &copy; <script>document.write(new Date().getFullYear())</script> <a href="https://smk.prestasiprima.sch.id/">SMK Prestasi Prima</a>, Jl. Raya Hankam, Kec. Cipayung, Jakarta Timur.
                 </p>
             </div>
         </footer>
